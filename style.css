@@ -1,0 +1,12 @@
+button{
+    width: 7cm;
+    height:1cm;
+    background-color: white;
+    border-radius: 2cm;
+    border: white;
+}
+body{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
